@@ -65,7 +65,7 @@
 ### 🔬 **Quality-Diversity RL for Molecular Design** 
 Explored Diversity-via-Determinant methods, multi-agent RL setups, and generative model fine-tuning for molecular exploration.
 
-### 🖼️ **[CLIP Zero-Shot Object Detector]((https://github.com/Purusothaman-Seenivasan/clip-zero-shot-detector.git))**
+### 🖼️ **[CLIP Zero-Shot Object Detector](https://github.com/Purusothaman-Seenivasan/clip-zero-shot-detector.git)**
 Zero-shot object detector using CLIP (ViT-B/32) embeddings with optimized inference and patch-wise processing.
 
 ### ☀️ **[Solar Flare Classification via Contrastive Learning (SimCLR)](https://github.com/Purusothaman-Seenivasan/Advanced-ML-RL-Projects.git)**
