@@ -40,7 +40,7 @@
 ![Evolutionary Algorithms](https://img.shields.io/badge/Evolutionary%20Methods-6E59A5?logo=hackthebox&logoColor=white)
 
 ### **Tools & Environments**
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?logo=ubuntu&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-10/11-0078D6?logo=windows&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-11.7-76B900?logo=nvidia&logoColor=white)
 ![SLURM](https://img.shields.io/badge/HPC-SLURM-4053D6?logo=linuxcontainers&logoColor=white)
