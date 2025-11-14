@@ -39,12 +39,12 @@
 ![RL](https://img.shields.io/badge/Reinforcement%20Learning-FF6F00?logo=apacheairflow&logoColor=white)
 ![Evolutionary Algorithms](https://img.shields.io/badge/Evolutionary%20Methods-6E59A5?logo=hackthebox&logoColor=white)
 
-### **Tools & Compute**
-![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+### **Tools & Environments**
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?logo=ubuntu&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-10/11-0078D6?logo=windows&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-11.7-76B900?logo=nvidia&logoColor=white)
+![SLURM](https://img.shields.io/badge/HPC-SLURM-4053D6?logo=linuxcontainers&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-
 ---
 
 ## 🎓 Education
@@ -99,11 +99,10 @@ Contrastive learning pipeline for satellite-based flare classification with robu
 
 --- -->
 ### **Other Skills**
-- Experiment design and result analysis  
-- HPC cluster workflows (SLURM)  
-- Bayesian optimization basics  
-- Technical documentation (LaTeX)  
-- Parametric CAD automation (PTC Creo)
+- HPC cluster workflows (SLURM on Linux)
+- Experiment design and result analysis
+- Technical documentation (LaTeX)
+- Parametric CAD automation (PTC Creo on Windows)
 ---
 
 ### **Soft Skills**
