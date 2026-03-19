@@ -9,7 +9,8 @@
 
 ## 👨‍💻 About Me
 
-- I’m interested in how learning, optimization, and complex behaviours emerge from simple rules.  
+- I’m interested in how learning, optimization, and complex behaviours emerge from simple rules.
+- Doing internship as Data Scientist at Cognivity AI for battery degradation modelling. 
 - I recently completed my thesis at **AstraZeneca**, working on **Quality-Diversity Reinforcement Learning** for molecular design using multi-agent RL, generative models, diversity metrics, and GPU-based experiments.  
 - I enjoy breaking down difficult problems, running structured experiments, and understanding models beyond surface-level results.  
 - Before moving into ML, I worked as a **Mechanical Design Engineer at KONE**, which shaped how I approach engineering: systematic thinking, attention to detail, and practical decision-making.  
